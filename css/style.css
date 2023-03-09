@@ -132,7 +132,7 @@ h6 {
 
 [class*=-ibg_contain] img {
   -o-object-fit: contain;
-     object-fit: contain;
+     object-fit: contain 6;
 }
 
 /*
